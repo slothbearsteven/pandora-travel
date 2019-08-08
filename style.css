@@ -1,0 +1,52 @@
+
+.toppicturoo{
+  color:rgb(255, 255, 255);
+  background-image: url(https://www.dailydot.com/wp-content/uploads/017/d8/1c948383b6d2c1ff8eb5af3abb2012f7.jpg);
+  background-size: contain;
+  background-repeat: no-repeat;
+  text-shadow: 2px 0px 2px black, -2px 0px 2px black;
+  font-style: italic;
+  background-color: black
+ 
+}
+.sidefiller-top{
+  background-image: url(https://emblemsbf.com/img/42236.jpg);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-color: black
+}
+.sidefiller{background-color: black;}
+.midfiller{
+  background-color: #4b5b41;
+border: 10px solid #4b5b41;
+border-radius: 35px;
+color: white;
+font-size: larger;
+line-height: 300%;
+font-style: italic;
+font-weight: bold;
+text-shadow: 2px 0px 5px black, 2px 0px 5px black;
+}
+.pandorapic-welcome{ 
+  background-image: url(http://www.gaminglives.com/wp-content/uploads/bl2_review_01.jpg);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-color: black;
+border-radius: 35px;
+
+}
+.pandorapic-car{background-image: url(https://steamcdn-a.akamaihd.net/steam/apps/729040/ss_ef109a2667cf7d690426e657ad3cc1990205aeea.1920x1080.jpg?t=1563407661);
+  background-position: right;
+  background-size: contain;
+  border-radius: 35px;
+  background-repeat: no-repeat;
+  background-color: black}
+  .pandorapic-hammerlock{
+    background-image: url(https://cdn.mos.cms.futurecdn.net/fa68808bdd4b47caa32da02ab48e885b.jpg);
+ background-position: right;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-color: black;
+  border-radius: 35px
+  }
+  
