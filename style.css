@@ -6,7 +6,11 @@
   background-repeat: no-repeat;
   text-shadow: 2px 0px 2px black, -2px 0px 2px black;
   font-style: italic;
-  background-color: black
+  background-color: black;
+  border-right: 10px solid black;
+  border-left: 10px solid black
+ 
+
  
 }
 .sidefiller-top{
@@ -33,10 +37,10 @@ text-shadow: 2px 0px 5px black, 2px 0px 5px black;
   background-repeat: no-repeat;
   background-color: black;
 border-radius: 35px;
-
+background-position: center;
 }
 .pandorapic-car{background-image: url(https://steamcdn-a.akamaihd.net/steam/apps/729040/ss_ef109a2667cf7d690426e657ad3cc1990205aeea.1920x1080.jpg?t=1563407661);
-  background-position: right;
+  background-position:center;
   background-size: contain;
   border-radius: 35px;
   background-repeat: no-repeat;
@@ -47,6 +51,6 @@ border-radius: 35px;
   background-size: contain;
   background-repeat: no-repeat;
   background-color: black;
-  border-radius: 35px
+  border-radius: 35px;
   }
   
