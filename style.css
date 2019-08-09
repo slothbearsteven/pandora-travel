@@ -55,5 +55,13 @@ background-position: center;
   }
   .botopage{
     background-color: #4b5b41;
+    color: white;
+font-size: larger;
+font-style: italic;
+font-weight: bold;
+text-shadow: 2px 0px 5px black, 2px 0px 5px black;
+  }
+  .senditin{
+    text-align: right;
   }
   
